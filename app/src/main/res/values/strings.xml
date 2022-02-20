@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">aplikasiPertama</string>
     <string name="nameEditText">Name : </string>
-    <string name="sayHelloButton">Clik Here :</string>
+    <string name="sayHelloButton">rubahklik</string>
 
 </resources>
